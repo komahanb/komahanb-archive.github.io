@@ -1,0 +1,143 @@
+/* lecturers */
+
+.clearfix .fusion-row .full-width .post-1714 .post-content .fusion-fullwidth .fusion-row .fusion-recent-works{
+	margin-left: -20px !important;
+}
+
+.clearfix .fusion-row .full-width .post-1714 .post-content .fusion-fullwidth .fusion-row .fusion-column-last{
+	padding-bottom: 0px !important;
+}
+
+.clearfix .fusion-row .full-width .post-1714 .post-content .fusion-fullwidth .fusion-row .lecturers-posts .fusion-post-content, .clearfix .fusion-row .full-width .post-1714 .post-content .fusion-fullwidth .fusion-row .lecturers-posts .entry-title a{
+	color: #555555;
+}
+
+.clearfix .fusion-row .full-width .post-1714 .fusion-fullwidth .fusion-row .fusion-title .title-heading-left{
+	font-weight: 400 !important;
+}
+
+.fusion-row .full-width .post-1714 .post-content .lecturers-page{
+	height: 2004px;
+}
+
+/* researchers */
+
+.fusion-row .full-width .post-1527 .post-content .fusion-fullwidth .fusion-row{
+	padding-bottom: 200px;
+}
+
+.fusion-row .full-width .post-1527 .post-content .fusion-fullwidth{
+	padding-left: 100px;
+}
+
+.clearfix .fusion-row .full-width .post-1527 .post-content .fusion-fullwidth .fusion-row p { 
+	padding-bottom: 0px;
+}
+
+.clearfix .fusion-row .full-width .post-1527 .fusion-fullwidth .fusion-row .fusion-title .title-heading-left{
+	font-weight: 400 !important;
+}
+
+/* people */
+
+.clearfix .fusion-row .full-width .post-986 .post-content .fusion-fullwidth .fusion-row .fusion-one-half .fusion-column-wrapper .fusion-title .title-heading-left{
+	font-weight: 400 !important;
+}
+
+/* post-doc */
+
+.post-doc-list{
+	height: 8137px;
+	/* padding-bottom: 10000px !important; */
+}
+
+.fusion-row .full-width .post-1359 .post-content .post-doc-bot-bg{
+	height: 6471px;
+	margin-top: -2000px;
+}
+
+.fusion-row .full-width .post-1359 .post-content .fusion-fullwidth .fusion-row .fusion-one-half .fusion-column-wrapper{
+	margin-bottom: -1800px;
+}
+
+
+.clearfix .fusion-row .full-width .post-1359 .post-content .fusion-fullwidth .fusion-row .fusion-one-half .fusion-column-wrapper .fusion-title .title-heading-left{
+	font-weight: 400 !important;
+}
+
+/* research landing */
+.research-landing-bot .fusion-row .fusion-one-full{
+	height: 608px;
+}
+
+
+
+
+
+
+
+/**************** Zac Test ****************************/
+
+.zac-h2{
+	color: #fff !important;
+	margin-top: 8%;
+}
+
+.zac-h2-blue{
+	color: #3BB9FF !important;
+}
+
+.zac-container{
+	min-height: 100vh;
+	background-size: cover;
+}
+
+.zac-spacing{
+	padding: 40% 0;
+}
+
+.zac-spacing-first{
+	padding-bottom: 40%;
+}
+/******************************************************/
+
+#research-resources-main .research-resources-title span{
+	text-shadow: 0px 0px 10px black;
+}
+#research-resources-main .research-resources-container p{
+	text-shadow: 0px 0px 20px black;
+}
+
+#research-resources-water .research-resources-container p{
+	margin-bottom: 20px !important;
+}
+#research-ecology-two .ecology-iceberg-container p{
+	margin-bottom: 20px !important;
+}
+#research-ecology-one{
+	padding-bottom: 150px !important;
+	padding-top: 100px !important;
+}
+.undergrad-civil-eng h2{
+	line-height: 1.1em !important;
+}
+.ugrad-oppo-top p{
+	margin-bottom: 20px !important;
+}
+#graduate-landing-main h2{
+	line-height: 1.1em !important;	
+}
+#graduate-landing-main h2 p{
+	margin: 0 !important;	
+	line-height: 1.1em !important;	
+}
+
+#graduate-landing-main .title-heading-left{
+	padding-bottom: 5px !important;
+}
+#graduate-landing-main .gradprog-title{
+	margin-bottom: 10px !important;
+	padding-top: 15px;
+	border-top: 1px solid #000;
+}
+
