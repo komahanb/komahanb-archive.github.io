@@ -1,0 +1,175 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+h3.tribe-mobile-day-heading {
+    color: #fff;
+}
+
+span.tribe-event-date-start {
+    color: #fff;
+}
+
+#mobile-nav-toggle {
+	position: fixed;
+    	width: 100%;
+    	background-color: rgba(2,2,2,0.82) !important;
+    	right: 0;
+    	height: 70px;
+    	padding-top: 10px;
+    	top: 0px;
+    	z-index: 9999 !important;
+    	transition: right 375ms cubic-bezier(.06,.14,.15,.92);
+}
+
+.close-mobile-nav {
+    	float: right;
+    	/*width: 100%;*/
+	height: 70px;
+	text-align: right;
+}
+
+#mobile-nav-logo h1{
+	display: inline;
+	padding-left: 30px;
+}
+
+#mobile-nav-logo{transition: 1s;}
+
+.mobile-active #mobile-nav-logo{
+	text-align: center;
+	background: none !important;
+}
+
+#mobile-nav-toggle.mobile-active{
+	background: none !important;
+	width: 0px !important;
+}
+
+.mobile-active #mobile-nav-logo h1{padding-left: 0px !important;}
+
+.mobile-nav .mobile-nav-container {padding-top: 175px !important;}
+
+.mobile-nav .cta-buttons-container {display: none;}
+
+#mobile-nav-toggle .cee-mit-bars {
+	float: right;
+	background: none !important;
+}
+
+#logoActiveNav h1{
+	display: inline;
+   	margin: 0;
+    	padding: 0;
+    	text-align: center;
+    	position: fixed;
+    	top: 10px;
+    	left: 14vw;
+}
+
+.fusion-main-menu ul li a{
+	font-family: "Helvetica-Light",'Helvetica', Arial, sans-serif !important
+}
+
+.linkNavLogo{
+	color: #fff;
+	z-index: 9999 !important;
+}
+
+@media only screen and (max-width: 1100px){
+	#wrapper{
+		margin-top: 70px;
+	}
+}
+
+@media only screen and (max-width: 1300px){
+	p.footerRight {
+		float: none !important;
+	}
+	
+	.footer-logo {
+		display: none;
+	}
+
+	#tribe-events-content .tribe-events-calendar td div a{
+		background: none !important;
+	}
+	
+	/* Quick Fixes*/
+	#tribe-events-content .tribe-events-calendar .mobile-active:hover, #tribe-events-content .tribe-	events-calendar td.tribe-events-othermonth.mobile-active, #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-], #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-] a, .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-], .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-] a, .tribe-events-calendar td.mobile-active{
+    		background-color: #A0CE4E !important;
+    		color: #fff;
+	}
+
+	#tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover, .tribe-events-calendar td.tribe-events-present.mobile-active, .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-] a {
+    		background-color: #A0CE4E !important;
+    		color: #fff;
+	}
+}
+
+@media only screen and (max-width: 1100px){
+	hr.style2 {
+		display: none;
+	}
+}
+@media only screen and (max-width: 414px){
+	#faculty_Posts p {
+    		padding-right: 100px;
+	}
+	.about-landing-two p {
+    		padding-right: 0px !important;
+	}
+	.about-landing-two ul {
+		padding-left: 0px;
+		font-size: 16px;	
+	}
+	.about-landing-two h2, .about-landing-three h2 {
+		line-height: 1.2 !important;
+	}
+	.remove-on-mobile {
+		display: none !important;
+	}
+	.student-life-container h2 {
+		line-height: 1.6 !important;
+	}	
+	#student-life-info {
+		height: 100%;
+	}
+	
+	.footerRowMobile{
+		margin-left: -53px !important;
+    		padding: 0;
+    		width: 95vw !important;
+	}
+
+	.faculty-with-photo {
+		min-height: 90vh !important;
+	}
+
+	.faculty-with-photo-info h2{
+    		line-height: 1 !important;
+		margin-bottom: 10px !important;
+	}
+
+	.faculty-with-photo-bodyInfo div.fusion-row h3.title-heading-left{
+		margin-top: 10% !important;
+	}
+	
+	#content{
+		margin-bottom: -1px !important;
+	}
+}
+
+#video-channel-one-title h2 {
+	border-bottom: none !important;
+} 
+
+#grad-student-events-container a:hover{
+	color: grey !important;
+}

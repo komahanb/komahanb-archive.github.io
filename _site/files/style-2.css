@@ -1,0 +1,765 @@
+/* research page */
+#pierce-container {
+	padding-top: 100px;
+}
+#home-section-two h2 {
+	line-height: 60px;
+}
+/* faculty page */
+.faculty-list .fusion-portfolio-content a {
+	color: #313131 !important;
+}
+
+.faculty-list .fusion-recent-works {
+	margin-top: -65%;
+}
+/* graduate resources */
+#resources_Background {
+	background-position: center center !important;
+}
+#resources_Padding {
+	padding-top: 510px;
+}
+
+@media only screen and (max-width: 1440px){
+	#resources_Padding {
+		padding-top: 470px;
+	}
+}
+
+.grad-sm-link{/* blue color, bad name choice*/
+	color :#00478c;
+}
+
+.grad-sm-link:hover{
+	color: #fff;
+}
+
+.grad-brown-link{/* brown*/
+	color: #534741;
+}
+
+.grad-brown-link:hover{
+	color: #fff;
+}
+
+.grad-admissions-white{
+	color: #fff;
+}
+
+.grad-admissions-white:hover{
+	color: #000;
+}
+
+.grad-admissions-blue{
+	color: #8cb4c0;
+}
+
+.grad-admissions-blue:hover{
+	color: #fff;
+}
+
+.grad-resources-link{
+	color: #fff;
+}
+
+.grad-resources-link:hover{
+	color: lightblue;
+}
+/* ecology */
+@media only screen and (min-width: 1650px){
+	#research-ecology-one {
+		padding-bottom: 100px !important;
+	}
+}
+
+@media only screen and (min-width: 1800px){
+	#research-ecology-one {
+		padding-bottom: 200px !important;
+	}
+}
+
+@media only screen and (min-width: 1920px){
+	#research-ecology-one {
+		padding-bottom: 250px !important;
+	}
+}
+
+#ecology-title{
+	border-top: 1px solid #003663;
+}
+
+/* resources */
+@media only screen and (min-width: 1440px){
+	#resources-project-separator {
+		margin-top: 1300px !important;
+	}
+}
+
+@media only screen and (min-width: 1600px){
+	#resources-project-separator {
+		margin-top: 1600px !important;
+	}
+}
+
+
+@media only screen and (min-width: 1700px){
+	#resources-project-separator {
+		margin-top: 1800px !important;
+	}
+}
+
+@media only screen and (min-width: 1900px){
+	#resources-project-separator {
+		margin-top: 2000px !important;
+	}
+}
+
+/* graduate degrees */
+@media only screen and (min-width: 1900px){
+	.grad-degree-interdepartment {
+		padding-bottom: 1420px !important;
+	}
+}
+
+@media only screen and (max-width: 1900px){
+	.grad-degree-interdepartment {
+		padding-bottom: 1000px !important;
+	}
+}
+
+/* Footer*/
+hr.style1{
+	border: 2px solid #B2B2B2;
+        color: #B2B2B2;
+}
+
+hr.style2{
+	border: 1px solid #B2B2B2;
+    	color: #B2B2B2;
+    	opacity: 0.3;
+}
+
+hr.style3{
+	border: 1px solid #000;
+    	color: #000;
+}
+
+hr.style4{
+	border: 1px solid #fff;
+    	color: #fff;
+}
+
+.footer-heading{
+	font-family: 'Helvetica-bold', Arial, sans-serif !important;
+	letter-spacing: 1px; 
+	color: #A0A2A3 !important; 
+	font-size: 14px !important; 
+	padding: 1% 0 !important; 
+	margin: 1% 0 !important;
+}
+
+.footer-logo-bottomImg{
+	position: absolute;
+   	bottom: 0;
+	left: 0;
+}
+
+.lastFooterRow{
+	border-bottom:2px solid #B2B2B2;
+	padding-bottom: 10px;
+}
+
+.lastFooterRow p{
+	color: #B2B2B2;
+}
+
+form#emailSubscribe {
+    color: #B2B2B2;
+}
+
+#socialCol{
+	/*white-space: nowrap;*/
+}
+
+@media only screen and (max-width: 1808px) and (min-width: 1304px){
+	#footerSocial{
+		position: absolute;
+	}
+}
+
+footer,
+footer a,
+footer p{
+	font-size: 12px !important;
+}
+
+
+.footer-list ul li{
+	font-weight: normal !important;
+	padding-top: 5px;
+}
+/**** Fix for responsive footer ****/
+@media only screen and (max-width: 1400px){
+.fusion-columns .fusion-column {
+    float: left !important;
+    width: 100% !important;
+}
+.footer-logo-bottomImg {
+	position: relative;
+}
+}
+@media only screen and (min-width: 1403px){
+	.row-eq-height {
+  		display: -webkit-box;
+  		display: -webkit-flex;
+  		display: -ms-flexbox;
+  		display: flex;
+	}
+}
+
+.footer-aTagTopLevel{
+	font-family: 'Helvetica-bold', Arial, sans-serif !important;
+	letter-spacing: 1px; 
+    	color: #A0A2A3 !important;
+    	font-size: 14px !important;
+    	padding: 1% 0 !important;
+    	margin: 1% 0 !important
+}
+
+@media only screen and (max-width: 414px){
+	.footer-aTagTopLevel{letter-spacing: 0px;}
+}
+/********* Footer Accordion Effect *********/
+.block input{display: none;}
+.footerAccordPlus{float: right; padding-right: 10px;}
+/*.footerAccordPlus::before{content: "+";}
+.footerAccordPlus.changed::before{content: "-";}*/
+
+@media screen and (max-width: 1300px) {
+	hr.style1{
+		border: none;
+    		height: 1px;
+    		background-color: #B2B2B2;
+	}
+
+	hr.style2{display: none}
+	
+	div.footer-list.info ul li a{
+		border-top: 1px solid #B2B2B2;
+    		padding: 10px 0px !important;
+	}
+
+	div.footer-list.info ul li:hover,
+	h4.footer-heading:hover{
+		background: rgba(178, 178, 178, .3);
+	}
+
+	div.footer-list.info ul li:hover a,
+	h4.footer-heading:hover a{
+		padding-left: 10px !important; 
+		color: #fff;
+	}
+}
+
+@media only screen and (min-width: 1301px){
+	.footerAccordPlus{display: none;}
+}
+@media only screen and (max-width: 1300px){
+	.block input[type='checkbox']:checked ~ .info{
+  		/*height: 175px;*/
+		height: 100%;
+  		transition: .25s linear;
+	}
+
+	input[type='checkbox']{
+  		display: none;
+	}
+
+	.info{
+  		width: 100%;
+  		height: 0;
+  		padding-left: 15px;
+  		display: block;
+  		overflow: hidden;
+  		box-sizing: border-box;
+		transition: .25s linear;
+	} 
+
+	::selection{
+  		background: #222;
+  		color: #fff;
+	}
+}
+/********* End Footer Accordion Effect *********/
+/* Footer Email Form  */
+
+
+.fusion-footer input[type="text"] {
+	background: none;
+    	border: 1px solid #B2B2B2;
+    	font-size: 18px !important;
+    	/*color: #817f83 !important;*/
+    	line-height: 48px;
+    	padding-left: 15px;
+	margin-top: 6px;
+    	height: 35px;
+    	padding-right: 30px;
+}
+
+.fusion-footer input[type="submit"] {
+	height: 30px;
+	background: none;
+	color: #b2b2b2;
+	border: 0;
+	font-size: 20px;
+    	margin-bottom: 0;
+	max-width: 20px;
+    	padding: 0;
+	position: absolute;
+    	right: 3% !important;
+    	top: 26px;
+    	width: 30px;
+    	font-size: 30px;
+}
+
+
+.blackCopy{
+	color: #000;
+}
+
+.blackCopy h2{
+	color: #000;
+}
+
+
+/* Single Post*/
+@media only screen and (max-width: 850px){
+	.post{
+		margin-left: 0 !important;
+		padding: 15px;
+	}
+}
+
+.post .entry-title{
+	font-size: 50px !important;
+	margin: 3% 0;
+	line-height: 1 !important;
+}
+
+.post .post-content .entry-title a{
+	color: #fff !important;
+}
+
+.fusion-sharing-box h4 {
+    color: #fff;
+}
+
+.fusion-single-sharing-box {
+    background-color: #212121;
+    border: 1px solid #fff;
+}
+
+/* Events */
+#tribe-events-content .tribe-events-sub-nav li a{
+	color: #fff;
+}
+
+input.tribe-events-button.tribe-no-param {
+   	background: #29ABE2 !important;
+}
+
+a.tribe-events-ical.tribe-events-button, a.tribe-events-gcal.tribe-events-button {
+	background: #29ABE2 !important;
+}
+
+.tribe-event-description{
+    color: #fff;
+}
+
+#tribe-events-content .tribe-events-sub-nav li a:hover{
+	color: grey;
+}
+
+.tribe-events-nav-previous a:hover:before, 
+.tribe-events-nav-left a:hover:before,
+.tribe-events-nav-next a:hover:after, 
+.tribe-events-nav-right a:hover:after{
+	color: grey;
+}
+
+.tribe-events-nav-previous a:before, 
+.tribe-events-nav-left a:before{
+	color: #fff;
+}
+
+.tribe-events-nav-next a:after, 
+.tribe-events-nav-right a:after{
+	color: #fff;
+}
+
+.more a:after, .fusion-read-more:after{
+	color: #d6d6d6;
+}
+
+a.fusion-read-more{
+	color: #d6d6d6 !important;
+}
+
+.more a:hover:after, 
+.fusion-read-more:hover:after{
+	color: grey;
+}
+
+a.fusion-read-more:hover{
+	color: grey !important;
+}
+
+/* Events Calendar */
+#tribe-events-content .tribe-events-calendar td {
+	background-color: #212121 !important;
+}
+
+#tribe-events-content a{
+	color: #fff;
+}
+
+
+#tribe-events-content a:hover{
+	color: #29ABE2;
+}
+
+#toTop:hover, #tribe-events-content .tribe-events-tooltip h4, #wrapper .search-table .search-button input[type="submit"]:hover, .circle-yes ul li:before, .fusion-accordian .panel-title .active .fa-fusion-box, .fusion-date-and-formats .fusion-date-box, .pagination .current, .progress-bar-content, .table-2 table thead, .tagcloud a:hover, .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-], .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a, .tribe-events-calendar thead th, .tribe-events-list-separator-month, .tribe-mini-calendar-event .list-date, ul.arrow li:before, ul.circle-yes li:before{
+	color: #000 !important;
+}
+
+/****** End Events *******/
+
+/* Grad Student Life Fix */
+@media only screen and (max-width: 1024px) {
+	.grad-student-life {
+		padding-top: 10% !important;
+	}
+}
+
+/* Graduate Funding Fix */
+@media only screen and (max-width: 1024px) {
+	.funding-first-container {
+		padding-top: 10% !important;
+	}
+}
+
+/* Blog Title Fix */
+@media only screen and (min-width: 1101px) and (max-width: 1413px){
+	#blog .fusion-post-content h2{
+		font-size: 35px !important;
+	}
+}
+
+@media only screen and (min-width: 1414px) and (max-width: 1791px){
+	#blog .fusion-post-content h2{
+		font-size: 45px !important;
+	}
+}
+
+/* Blog Images*/
+img.attachment-full.size-full.wp-post-image {
+    width: 100% !important;
+    max-height: 70vh;
+}
+/**** End Blog Title Fix ****/
+
+
+
+
+
+/******* Giving to CEE ***************/
+#giving-to-cee {
+	max-width: 550px;
+	padding-top: 8%;
+	padding-bottom: 25%;
+	font-size: 16px;
+}
+#giving-to-cee .large-title {
+	border-top: 1px solid #000;
+}
+
+@media only screen and (max-width: 400px){
+	#blog .fusion-post-content {
+		max-width: 80%;
+		margin: auto;
+	}
+	.tribe-events-page-title{
+		font-size: 30px !important;
+	}
+}
+
+
+
+/********* End Giving to CEE *********/
+/********* Lower Plates *********/
+.lowerPlate-title{
+	color: #fff;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.lowerPlate-subTitle{
+	color: #fff;
+	font-size: 23px;
+}
+
+.lowerPlate-quote{
+	color: #fff;
+}
+/********* End Lower Plates *********/
+
+
+/********* Faculty with Photo*********/
+.faculty-with-photo{
+	background-size: contain !important;
+	background-position: 300px 0px;
+	color: #000 !important;
+}
+
+.faculty-with-photo-info h2,
+.faculty-with-photo-info p{
+	color: #000;
+}
+.faculty-with-photo-info {
+	margin-top: 15% !important;
+	margin-bottom: 15% !important;
+	max-width: 450px;
+	margin-left: 45%;
+}
+.faculty-with-photo-info #infoDiv{
+	background: rgba(255,255,255, 0.4);
+    	padding: 0px 10px;
+}
+
+#infoDiv h2 {
+    color: black;
+}
+
+.faculty-with-photo-bodyInfo { padding-top: 10px !important }
+.faculty-with-photo-bodyInfo h3,
+.faculty-with-photo-bodyInfo h2,
+.faculty-with-photo-bodyInfo p span{
+	color: #fff !important;
+}
+
+.faculty-with-photo-bodyInfo a{
+	color: #fff;
+}
+
+.faculty-with-photo-bodyInfo a:hover{
+	color: lightblue;
+}
+
+@media only screen and (max-width: 768px){
+	.faculty-with-photo-info{
+		margin-left: 0;
+	}
+}
+#admirMasic{background-position: 200px 0px !important;}
+#benedettoMarelli{background-position: 230px 0px !important;}
+#carolinaOsorio{background-position: 260px 0px !important;}
+#charlesHarvey{background-position: 190px 0px !important;}
+#coletteHeald{background-position: 144px 0px !important;}
+#eduardoKausel{background-position: 235px 0px !important;}
+#elfatihEltahir{background-position: 200px 0px !important;}
+#fredMoavenzadeh{background-position: 235px 0px !important;}
+#haroldHemond{background-position: 280px 0px !important;}
+#herbertEinstein{background-position: 245px 0px !important;}
+#jesseKroll{background-position: 200px 0px !important;}
+#johnWilliams{background-position: 260px 0px !important;}
+#lydiaBourouiba{background-position: 270px 0px !important;}
+#markusBuehler{background-position: 175px 15px !important;}
+#mosheBenAkiva{background-position: 285px 0px !important;}
+#nigelWilson{background-position: 280px 0px !important;}
+#oralBuyukozturk{background-position: 300px 0px !important;}
+#ottoCordero{background-position: 295px 0px !important;}
+#pedroReis{background-position: 270px 0px !important;}
+#pennyChisholm{background-position: 215px 0px !important;}
+#philipGschwend{background-position: 280px 0px !important;}
+#rubenJuanes{background-position: 200px 0px !important;}
+#saurabhAmin{background-position: 310px 0px !important;}
+#xuanheZhao{background-position: 300px 0px !important;}
+#talCohen{background-position: 395px 0px !important;}
+#aliJadbabaie{background-position: 300px 0px !important;}
+#chandraMadramootoo{background-position: 315px 0px !important;}
+#benjaminKocar{background-position: 315px 0px !important;}
+#caitlinMueller{background-position: 315px 0px !important;}
+#johnOchsendorf{background-position: 315px 0px !important;}
+
+.notAtPhotoshootPhoto{
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+
+.notAtPhotoshootTitle h2{color: #000 !important;}
+@media only screen and (max-width: 1450px){
+	.faculty-with-photo-info {
+		margin-top: 10% !important;
+		margin-bottom: 10% !important;
+	}
+	#talCohen{background-position: 280px 0px !important;}
+}
+@media only screen and (max-width: 1200px){
+	.faculty-with-photo-info {
+		margin-top: 5% !important;
+		margin-bottom: 8% !important;
+	}
+}
+@media only screen and (max-width: 1100px){
+	#admirMasic,
+	#benedettoMarelli,
+	#carolinaOsorio,
+	#charlesHarvey,
+	#coletteHeald,
+	#eduardoKausel,
+	#elfatihEltahir,
+	#fredMoavenzadeh,
+	#haroldHemond,
+	#herbertEinstein,
+	#jesseKroll,
+	#johnWilliams,
+	#lydiaBourouiba,
+	#markusBuehler,
+	#mosheBenAkiva,
+	#nigelWilson,
+	#oralBuyukozturk,
+	#ottoCordero,
+	#pedroReis,
+	#pennyChisholm,
+	#philipGschwend,
+	#rubenJuanes,
+	#saurabhAmin,
+	#xuanheZhao,
+	#talCohen,
+	#aliJadbabaie,
+	#chandraMadramootoo,
+	#benjaminKocar,
+	#caitlinMueller,
+	#johnOchsendorf
+	{
+		background-position: 0px 100% !important;
+		margin-bottom: -10px;
+	}
+}
+
+#titleLineHeightFix{line-height: 1;}
+
+#people-faculty-title{width: 53%;}
+
+#people-staff-title{width: 50%;}
+
+#undergrad-studentlife-video-container{display: block !important; width: 57vw;}
+
+.undergraduate-sl-h3{color: #fff !important;}
+
+#undergrad-studentlife-no-video-container{display: none !important;}
+
+.studentlife-video-col{margin-left: -80px;}
+#undergrad-studentlife-video-container figcaption a {
+	font-size: 14px !important;
+}
+#undergrad-studentlife-video-container figcaption {
+	line-height: 20px !important;
+}
+@media only screen and (max-width: 1303px){
+	#undergrad-studentlife-video-container{display: none !important;}
+	#undergrad-studentlife-no-video-container{display: block !important;}
+}
+
+.postdoc-video-col-first{margin-left: -38px;}
+
+.postdoc-video-link{text-shadow: 2px 2px 4px #000000;}
+.hideForNow{display: none;}
+/********* End Faculty with Photo*********/
+
+/*#fancybox-overlay{background-color: rgb(39, 39, 39) !important;}*/
+
+/* Solid black background */
+#fancybox-overlay {
+	background-color: #000 !important;
+	opacity: 1 !important;
+}
+
+/** Hovers for Allison**/
+
+.undergradDegreesLink:hover {color: lightblue !important;}
+
+.undergradStudentLifeLink{color: #fff;}
+.undergradStudentLifeLink:hover{color: lightblue !important;}
+
+.graduateDegreesMEng:hover span{color: #fff !important;}
+.graduateDegreesLink:hover{color: lightblue !important;}
+
+.graduateFundingLink:hover{color: #fff !important;}
+
+
+.graduateAdmissionsLink{color: #fff !important; font-weight: 400 !important;}
+.graduateAdmissionsLink:hover{color: slategray !important; font-weight: 400 !important;}
+
+/** Home video **/
+
+@media only screen and (min-width: 1200px){
+	body.home div#fancybox-wrap {
+    		width: 75vw !important;
+    		height: 75vh !important;
+	}
+
+	body.home div#fancybox-content {
+    		width: 75vw !important;
+    		height: 75vh !important;
+		border-width: 0px !important
+	}
+}
+
+.home-fa{color: #000;} /*#e52d27*/
+.home-fa:hover{color: #fff;}
+.home-ceeVid:hover .home-fa, .home-ceeVid:hover{color: #fff !important; text-decoration: none;}
+.home-ceeVid{color: #000 !important; font-size: 22px; text-decoration: none !important;}
+.faculty-search-link{color: #72A3D3 !important;}
+.faculty-search-link:hover{color: #2480D3 !important;}
+
+#fancybox-close {
+    top: -33px !important;
+    right: -12px !important;
+    height: 30px;
+    background: none !important;/*url(fancybox.png) -40px 0;*/
+}
+
+#fancybox-close::after{
+	content: "X";
+    	font-style: normal;
+    	font-size: 24px;
+    	font-family: Arial, Baskerville, monospace;
+    	color: #fff;
+}
+
+#fancybox-content {background: #000 !important;}
+
+
+@media only screen and (max-width: 1300px) {
+	div.footerRowMobile .col-sm-12 {
+		float: none;
+		width: 100%
+	}
+}
+
+
+
+.photoshootImage { background-position: 300px 0px !important; }
+
+@media only screen and (max-width: 1100px){
+	.photoshootImage {
+		background-position: 0px 100% !important;
+		margin-bottom: -10px;
+	}
+}
+
+.category-news .post-content a:hover {
+    color: #29ABE2;
+}
