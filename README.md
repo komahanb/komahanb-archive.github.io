@@ -9,7 +9,7 @@
 
 ---
 
-#### Technical Skills: C/C++, Fortran, Python
+#### Technical Skills: C/C++, Fortran, Python, MPI/CUDA
 
 ## Education
 - Ph.D., Aerospace Engineering | Georgia Institute of Technology (2020)								       		
