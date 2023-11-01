@@ -2,6 +2,11 @@
 
 ---
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
+
+---
+
+[Curriculum Vitae](/assets/publications/KomahanBoopathyCV.pdf)
+
 ---
 
 ## Research Experience
@@ -13,17 +18,15 @@
 - Design Optimization Under Uncertainty
 - High Performance Computing
 
-![probabilistic space time]()
-
 #### Computer Skills: C/C++, Fortran, Python, MPI/CUDA
 
 ## Education
 
 | Degree | Program | School | Year |
 |---|---|---|---|
-| Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2020 |
-| M.S  | Aerospace Engineering | University of Dayton | 2014 |
-| B.Tech | Aerospace Engineering | SRM University | 2012 |
+| Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2015 -- 2020 |
+| M.S  | Aerospace Engineering | University of Dayton | 2012 -- 2014 |
+| B.Tech | Aerospace Engineering | SRM University | 2008 -- 2012 |
 
 ## Theses
 
@@ -43,15 +46,20 @@
 
 ## Aerospace Design Optimization Under Uncertainties
 ### Robotic Flexible Manipulator Arm (Canadarm)
+
 ### Rotorcraft Hub Multibody Dynamics
+
 ### Robust Airfoil Design
 
 ## Computational Projects
 
 ### Linear and Nonlinear Algebra Modules
-### Adjoint-Enabled Stochastic Finite-Element 
-### Time-Dependent Finite-Element Analysis 
-### Gradient-Trained Kriging and Polynomial-Chaos Interpolation 
+
+### Adjoint-Enabled Stochastic Finite-Element
+
+### Time-Dependent Finite-Element Analysis
+
+### Gradient-Trained Kriging and Polynomial-Chaos Interpolation
 
 ## Posters
 
@@ -60,7 +68,7 @@
 
 ## Publications
 
-1. K. Boopathy and G.J. Kennedy, [**Non-Analytical Stochastic Galerkin Method: The Semi-Intrusive Reuse of Deterministic Computational Infrastructure**](), AIAA Journal. *Under Review*.
+1. K. Boopathy and G.J. Kennedy, [**Semi-Intrusive Stochastic Galerkin Methods derived from a Deterministic Finite-Element Framework**], Journal of Aerospace Information Systems. *(Under Review)*
 
 2. K. Boopathy and G. J. Kennedy, [**Semi-Intrusive Uncertainty Propagation and Adjoint Sensitivity Analysis Using the Stochastic Galerkin Method**](https://arc.aiaa.org/doi/10.2514/6.2020-1146), 22nd AIAA Non-Deterministic Approaches Conference at SciTech 2020, Orlando, Florida, Jan 2020. AIAA Paper 2020-1146.
 
