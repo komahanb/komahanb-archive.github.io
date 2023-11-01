@@ -1,6 +1,8 @@
 # Research Engineer (CFD x HPC)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
+---
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
+---
 
 ## Research Experience
 
@@ -20,14 +22,20 @@
 | Degree | Program | School | Year |
 |---|---|---|---|
 | Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2020 |
-| M.S  | Aerospace Engineering | University of Dayton | 2015 |
+| M.S  | Aerospace Engineering | University of Dayton | 2014 |
 | B.Tech | Aerospace Engineering | SRM University | 2012 |
 
 ## Theses
 
-- Ph.D Thesis: [Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties](). [Slides]()
+- Ph.D Thesis:
+  - Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties
+  - [PDF Document](http://hdl.handle.net/1853/63658)
+  - [Slides](/assets/publications/komahan-boopathy-phd-defense.pdf)
 
-- M.S Thesis: [Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models](). [Slides]()
+- M.S Thesis:
+  - Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models
+  - [PDF Document](http://rave.ohiolink.edu/etdc/view?acc_num=dayton1398302731)
+  - [Slides](/assets/publications/komahan-boopathy-masters-defense.pdf)
 
 ## Work Experience
 **Research Engineer, Ansys Inc (Aug 2020 -- Present)**
@@ -35,9 +43,7 @@
 
 ## Aerospace Design Optimization Under Uncertainties
 ### Robotic Flexible Manipulator Arm (Canadarm)
-
 ### Rotorcraft Hub Multibody Dynamics
-
 ### Robust Airfoil Design
 
 ## Computational Projects
