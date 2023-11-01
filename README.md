@@ -1,38 +1,56 @@
-# Research Engineer (CFD $\otimes$ HPC)
+# Research Engineer (CFD x HPC)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [YouTube](https://www.youtube.com/@komahanboopathy) | [Research Gate](https://www.researchgate.net/profile/Komahan-Boopathy)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
 
-## Research Span
+## Research Experience
+
 - Flexible Multibody Dynamics and Computational Fluid Mechanics
-- Adjoint and Tangent Sensitivity Analysis ($\pm$ time-dependent, $\pm$ probabilistic)
+- Adjoint and Tangent Sensitivity Analysis
 - Uncertainty Quantification and Statistical Inference
-- Surrogate Approximations
+- Multi-Fidelity Surrogate Modelling
 - Design Optimization Under Uncertainty
 - High Performance Computing
+
+![probabilistic space time]()
 
 #### Computer Skills: C/C++, Fortran, Python, MPI/CUDA
 
 ## Education
-- Ph.D. | Aerospace Engineering | Georgia Institute of Technology (2020)
-- M.S. | Aerospace Engineering | University of Dayton (2015)
-- B.Tech. | Aerospace Engineering | SRM University (2012)
+
+| Degree | Program | School | Year |
+|---|---|---|---|
+| Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2020 |
+| M.S  | Aerospace Engineering | University of Dayton | 2015 |
+| B.Tech | Aerospace Engineering | SRM University | 2012 |
+
+## Theses
+
+- Ph.D Thesis: [Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties](). [Slides]()
+
+- M.S Thesis: [Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models](). [Slides]()
 
 ## Work Experience
 **Research Engineer, Ansys Inc (Aug 2020 -- Present)**
-- Implementation of mathematical models of physics, discretization methods and CFD algorithms for execution on heterogeneous CPU & GPU hardware platforms
+- Implementation of models for flow physics, discretization methods and CFD algorithms for execution on heterogeneous CPU & GPU hardware platforms
 
 ## Aerospace Design Optimization Under Uncertainties
 ### Robotic Flexible Manipulator Arm (Canadarm)
+
 ### Rotorcraft Hub Multibody Dynamics
+
 ### Robust Airfoil Design
 
 ## Computational Projects
+
 ### Linear and Nonlinear Algebra Modules
 ### Adjoint-Enabled Stochastic Finite-Element 
 ### Time-Dependent Finite-Element Analysis 
 ### Gradient-Trained Kriging and Polynomial-Chaos Interpolation 
 
 ## Posters
+
+- [Rotorcraft hub dynamics and adjoint-based design optimization](assets/posters/2018-rotorcraft-hub-dynamics.pdf)
+- [Robust optimizations of structural and aerodynamic designs](assets/posters/2014-surrogate-ouu-framework.pdf)
 
 ## Publications
 
@@ -54,4 +72,4 @@
 
 9. K. Boopathy and M.P. Rumpfkeil, [**A Multivariate Interpolation and Regression Enhanced Kriging Surrogate Model**](https://arc.aiaa.org/doi/abs/10.2514/6.2013-2964), 21st AIAA Computational Fluid Dynamics Conference, San Diego, California, June 2013. AIAA Paper 2013-2964.
 
-10. K. Boopathy and M.P. Rumpfkeil, [**Building Aerodynamic Databases Using Enhanced Kriging Surrogate Models**], AIAA Region III Student Conference, Chicago, Illinois, April 2013.
+10. K. Boopathy and M.P. Rumpfkeil, **Building Aerodynamic Databases Using Enhanced Kriging Surrogate Models**, AIAA Region III Student Conference, Chicago, Illinois, April 2013.
