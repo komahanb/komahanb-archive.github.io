@@ -1,7 +1,10 @@
+
+![a journey across the probabilistic space time](/assets/images/research-span.png)
+
 # Research Engineer (CFD x HPC)
 
 ---
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
+*External:* [Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
 
 ---
 
