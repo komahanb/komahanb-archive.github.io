@@ -35,4 +35,3 @@ Software Architecture and High Performance Computing | structure and organizatio
 |---|---|
 Blockchain and Artificial Intelligence | hosts the implementation of computational algorithms, handle inter-node communications, on- and off-chain data storage, and achieve automation |
 
-
