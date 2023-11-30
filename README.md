@@ -1,5 +1,7 @@
 I am a Research Engineer at ANSYS working on the Fluent GPU solver development. My education and research background is within the subject of computational sciences in aerospace engineering
 
+![](/assets/images/research-span.png)
+<p align="center"> Contextual spans forming the basis for the Computational Sciences in Aerospace Engineering </p>
 
 | Degree | Program | School | Year | Thesis | Slides
 |---|---|---|---|---|---|
@@ -23,9 +25,6 @@ Design Optimization Under Uncertainty | field of optimization that is foundation
 Adjoint and Tangent Sensitivity Analysis | scalable methods for obtaining analytical derivatives for design optimization |
 Multi-Fidelity Surrogate Modelling | theoretical methods for data interpolation/regression and the augmention of higher-order information |
 Software Architecture and High Performance Computing | structure and organization of computational modules and handling their complex interactions among themselves and the computer hardware|
-
-![](/assets/images/research-span.png)
-<p align="center"> Contextual spans forming the basis for the Computational Sciences in Aerospace Engineering </p>
 
 ### Experimental Concepts:
 
