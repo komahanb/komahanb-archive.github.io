@@ -46,7 +46,7 @@ Flexible Multibody Dynamics and Computational Fluid Mechanics | laws concerning 
 Uncertainty Quantification and Statistical Inference | theory to incorporate statistics into deterministic computational methods |
 Design Optimization Under Uncertainty | field of optimization that is foundational to accommodate randomness for improving design robustness and reliability |
 Adjoint and Tangent Sensitivity Analysis | scalable methods for obtaining analytical derivatives for design optimization |
-Multi-Fidelity Surrogate Modelling | theoretical concepts for cost-effective approximations concerning data interpolation or regression and the augmention of higher-order information |
+Multi-Fidelity Surrogate Modelling | theoretical concepts for cost-effective approximations concerning data interpolation or regression and the augmentation of higher-order information |
 Software Architecture and High Performance Computing | organization of computational modules and handling their complex interactions among themselves and the computer hardware|
 
 ### Experimental Concepts:
@@ -60,3 +60,8 @@ Blockchain and Artificial Intelligence | hosts the implementation of computation
 
 
 
+
+```mermaid
+flowchart TD
+Research
+```
