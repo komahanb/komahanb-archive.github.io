@@ -1,4 +1,4 @@
-# Komahan Boopathy
+## [Curriculum Vitae](assets/KomahanBoopathyCV.pdf)
 
 
 | Research | External Links |
@@ -8,7 +8,6 @@
 | [Publications](SummaryOfPublications.md) | [Github](https://github.com/komahanb) |
 | [Posters](RESEARCH_POSTERS.md) | [YouTube](https://www.youtube.com/@komahanboopathy) |
 | [Projects](COMPUTATIONAL_PROJECTS.md) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy) |
-|  |  |
 
 ![](assets/images/research-span.png)
 
@@ -35,7 +34,6 @@ The years of my graduate education and research are focussed on the domain of co
 | Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2015 -- 2020 | [Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties](http://hdl.handle.net/1853/63658) | [Slides](/assets/publications/komahan-boopathy-phd-defense.pdf)
 | M.S  | Aerospace Engineering | University of Dayton | 2012 -- 2014 | [Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models](http://rave.ohiolink.edu/etdc/view?acc_num=dayton1398302731) | [Slides](/assets/publications/komahan-boopathy-masters-defense.pdf)
 | B.Tech | Aerospace Engineering | SRM University | 2008 -- 2012 | -- | -- |
-| | | | | | |
 
 The core methods forming the computational mathematics layer are fairly generic to other fields of engineering and computational sciences (e.g. computational biology, computational finance); thanks to [R. Descartes' (1596–1650)](https://plato.stanford.edu/entries/descartes/) admirable philosophical insights into the abstract nature of mathematics. I hope to find time to explore other such interesting applications.
 
@@ -54,4 +52,3 @@ Adjoint and Tangent Sensitivity Analysis | scalable methods for obtaining analyt
 Multi-Fidelity Surrogate Modelling | theoretical concepts for cost-effective approximations concerning data interpolation or regression and the augmentation of higher-order information |
 Software Architecture and High Performance Computing | organization of computational modules and handling their complex interactions among themselves and the computer hardware|
 Blockchain and Artificial Intelligence | hosts the implementation of computational algorithms, handle inter-node communications, on- and off-chain data storage, and achieve automation |
-| |
