@@ -1,81 +1,67 @@
-# Research Engineer (CFD x HPC)
+# Komahan Boopathy
+
+
+**External:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
+
+**Internal:** [Curriculum Vitae](/assets/KomahanBoopathyCV.pdf) | Research ([Span](#research-span) | [Publications](RESEARCH_PUBLICATIONS.md) | [Posters](RESEARCH_POSTERS.md)) | [Computational Projects](COMPUTATIONAL_PROJECTS.md)
 
 ---
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) | [ORCID](https://orcid.org/0000-0002-2543-0942) | [Github](https://github.com/komahanb) | [YouTube](https://www.youtube.com/@komahanboopathy) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy)
----
 
-## Research Experience
+### ![](/assets/images/research-span.png)
 
-- Flexible Multibody Dynamics and Computational Fluid Mechanics
-- Adjoint and Tangent Sensitivity Analysis
-- Uncertainty Quantification and Statistical Inference
-- Multi-Fidelity Surrogate Modelling
-- Design Optimization Under Uncertainty
-- High Performance Computing
+I am a research engineer at ANSYS working on the Fluent GPU solver development. My passion lies in crafting computational frameworks that analyze the static and dynamic equilibrium of aerospace designs and their environmental surroundings.
 
-![probabilistic space time]()
+A computational physics simulations technology empowers the makers of aerospace systems to analyze how their design prototypes would perform beforehand, by doing repeated high-volume calculations -- distributed for efficiency -- across a larger network of inter-connected computer-hardware platforms, powered by electrical energy.
+Such computational simulations are a viable cost-effective alternative to the more-expensive and time-consuming laboratory experiments commonly performed with a limited set of design parameters.
+These simulations backed by the mathematical fabric of differential and algebraic equations, provide the ability to predict the performance of design prototypes on a much larger set of design parameters, and foster design innovations or quicker design turnarounds.
+Motivated by such exciting prospects:
+- the U.S. Department of Energy owns four of the top ten fastest supercomputers in the world [[1]](https://www.energy.gov/science/high-performance-computing), capable of high-volume number crunching of upto 1 quintillion operations per second
+- the NASA is pursuing its 2030 vision for computatational methods aiming to improve the state-of-the-art of accuracy, speed, scalability and design optimization capabilities, in additional to the basic computational physics [[Mavriplis 2014]](/assets/publications/nasa-cfd-2030.pdf).
 
-#### Computer Skills: C/C++, Fortran, Python, MPI/CUDA
+In line with these motivations of practical interest, and my excitement about the sheer amount of **Freedom** offered by the domain of computational mathematics for scientific research:
 
-## Education
+- The first channel of my work relates to the advancement of mathematical analysis pertinent to different physics such as the fluid-mechanics and solid-mechanics.
+- The second channel of my work entails the hierarchical structuring (i.e. architecture) and implementation of the mathematical models and algorithms in a form amenable for high-performance computing.
+- The third channel of my work concerns the application of these computational analysis capabilities in the context of aerospace design and optimization.
 
-| Degree | Program | School | Year |
-|---|---|---|---|
-| Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2020 |
-| M.S  | Aerospace Engineering | University of Dayton | 2014 |
-| B.Tech | Aerospace Engineering | SRM University | 2012 |
+The years of my graduate education and research are focussed on the domain of computational sciences in aerospace engineering; where I apply the subject areas of mathematics and computing in the ultimate context of design-optimization of aerospace systems and sub-systems. 
 
-## Theses
+| Degree | Program | School | Year | Thesis | Slides
+|---|---|---|---|---|---|
+| Ph.D | Aerospace Engineering | Georgia Institute of Technology | 2015 -- 2020 | [Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties](http://hdl.handle.net/1853/63658) | [Slides](/assets/publications/komahan-boopathy-phd-defense.pdf)
+| M.S  | Aerospace Engineering | University of Dayton | 2012 -- 2014 | [Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models](http://rave.ohiolink.edu/etdc/view?acc_num=dayton1398302731) | [Slides](/assets/publications/komahan-boopathy-masters-defense.pdf)
+| B.Tech | Aerospace Engineering | SRM University | 2008 -- 2012 | -- | -- |
 
-- Ph.D Thesis:
-  - Adjoint Based Design Optimization of Systems with Time Dependent Physics and Probabilistically Modeled Uncertainties
-  - [PDF Document](http://hdl.handle.net/1853/63658)
-  - [Slides](/assets/publications/komahan-boopathy-phd-defense.pdf)
+The core methods forming the computational mathematics layer are fairly generic to other fields of engineering and computational sciences (e.g. computational biology, computational finance); thanks to [R. Descartes' (1596–1650)](https://plato.stanford.edu/entries/descartes/) admirable philosophical insights into the abstract nature of mathematics. I hope to find time to explore other such interesting applications.
 
-- M.S Thesis:
-  - Uncertainty Quantification and Optimization Under Uncertainty Using Surrogate Models
-  - [PDF Document](http://rave.ohiolink.edu/etdc/view?acc_num=dayton1398302731)
-  - [Slides](/assets/publications/komahan-boopathy-masters-defense.pdf)
+## Research Span <span id="research-span"></span>
 
-## Work Experience
-**Research Engineer, Ansys Inc (Aug 2020 -- Present)**
-- Implementation of models for flow physics, discretization methods and CFD algorithms for execution on heterogeneous CPU & GPU hardware platforms
+I conduct research within the domain spanned by *Philosophy* <img src="/assets/images/otimes.png" width="13"> *Mathematics* <img src="/assets/images/otimes.png" width="13"> *Physics* <img src="/assets/images/otimes.png" width="13"> *Computing*.
+This is a multidisciplinary field that is synthesis of a fair bit of numerical mathematics, computer programming, and the mechanics of matter in fluid and solid forms.
+My long-term vision is creation of autonomous and scalable computational multi-physics analysis and design frameworks by synthesizing techniques from the following subject areas:
 
-## Aerospace Design Optimization Under Uncertainties
-### Robotic Flexible Manipulator Arm (Canadarm)
-### Rotorcraft Hub Multibody Dynamics
-### Robust Airfoil Design
+| Area | Purpose |
+|---|---|
+Flexible Multibody Dynamics and Computational Fluid Mechanics | laws concerning the behavior of solids and fluids under forces |
+Uncertainty Quantification and Statistical Inference | theory to incorporate statistics into deterministic computational methods |
+Design Optimization Under Uncertainty | field of optimization that is foundational to accommodate randomness for improving design robustness and reliability |
+Adjoint and Tangent Sensitivity Analysis | scalable methods for obtaining analytical derivatives for design optimization |
+Multi-Fidelity Surrogate Modelling | theoretical concepts for cost-effective approximations concerning data interpolation or regression and the augmentation of higher-order information |
+Software Architecture and High Performance Computing | organization of computational modules and handling their complex interactions among themselves and the computer hardware|
 
-## Computational Projects
+### Experimental Concepts:
 
-### Linear and Nonlinear Algebra Modules
-### Adjoint-Enabled Stochastic Finite-Element 
-### Time-Dependent Finite-Element Analysis 
-### Gradient-Trained Kriging and Polynomial-Chaos Interpolation 
+**Caution**: the following are highly exploratory and may be impractical or useless. However, I do see strong analogies with established technical methods and find them worthy of investigation.
+ 
+| Area | Purpose |  
+|---|---|
+Blockchain and Artificial Intelligence | hosts the implementation of computational algorithms, handle inter-node communications, on- and off-chain data storage, and achieve automation |
 
-## Posters
 
-- [Rotorcraft hub dynamics and adjoint-based design optimization](assets/posters/2018-rotorcraft-hub-dynamics.pdf)
-- [Robust optimizations of structural and aerodynamic designs](assets/posters/2014-surrogate-ouu-framework.pdf)
 
-## Publications
 
-1. K. Boopathy and G.J. Kennedy, [**Non-Analytical Stochastic Galerkin Method: The Semi-Intrusive Reuse of Deterministic Computational Infrastructure**](), AIAA Journal. *Under Review*.
 
-2. K. Boopathy and G. J. Kennedy, [**Semi-Intrusive Uncertainty Propagation and Adjoint Sensitivity Analysis Using the Stochastic Galerkin Method**](https://arc.aiaa.org/doi/10.2514/6.2020-1146), 22nd AIAA Non-Deterministic Approaches Conference at SciTech 2020, Orlando, Florida, Jan 2020. AIAA Paper 2020-1146.
-
-3. K. Boopathy and G.J. Kennedy, [**Parallel Finite Element Framework for Rotorcraft Multibody Dynamics and Adjoint Sensitivities**](https://arc.aiaa.org/doi/abs/10.2514/1.J056585), AIAA Journal, Vol. 57, No. 8, pp. 3159--3172, 2019, DOI:[10.2514/1.J056585](https://doi.org/10.2514/1.J056585).
-
-4. K. Boopathy and G. J. Kennedy, [**Adjoint-based derivative evaluation methods for flexible multibody systems with rotorcraft applications**](https://arc.aiaa.org/doi/10.2514/6.2016-1671), 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, Jan 2017. AIAA Paper 2017-1671.
-  
-5. G. J. Kennedy and K. Boopathy, [**A Scalable Adjoint Method for Coupled Flexible Multibody Dynamics**](https://dx.doi.org/10.2514/6.2016-1907), 57th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, San Diego, California, Jan 2016. AIAA Paper 2016-1907.
-
-6. K. Boopathy and M.P. Rumpfkeil, [**Unified Framework for Training Point Selection and Error Estimation for Surrogate Models**](https://arc.aiaa.org/doi/abs/10.2514/1.J053064), AIAA Journal, Vol. 53, No. 1, pp. 215--234, 2015, DOI:~[10.2514/1.J053064](https://doi.org/10.2514/1.J053064).
-
-7. K. Boopathy, M.P. Rumpfkeil and R. M. Kolonay, [**Robust Optimization of a Wing Under Structural and Material Uncertainties**](https://arc.aiaa.org/doi/abs/10.2514/6.2015-0920), 17th AIAA Non-Deterministic Approaches Conference, Kissimmee, Florida, Jan 2015. AIAA Paper 2015-0920.
-  
-8. K. Boopathy and M.P. Rumpfkeil, [**Robust Optimizations of Structural and Aerodynamic Designs**](https://arc.aiaa.org/doi/abs/10.2514/6.2014-2595), 15th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Atlanta, Georgia, June 2014. AIAA Paper 2014-2595.
-
-9. K. Boopathy and M.P. Rumpfkeil, [**A Multivariate Interpolation and Regression Enhanced Kriging Surrogate Model**](https://arc.aiaa.org/doi/abs/10.2514/6.2013-2964), 21st AIAA Computational Fluid Dynamics Conference, San Diego, California, June 2013. AIAA Paper 2013-2964.
-
-10. K. Boopathy and M.P. Rumpfkeil, **Building Aerodynamic Databases Using Enhanced Kriging Surrogate Models**, AIAA Region III Student Conference, Chicago, Illinois, April 2013.
+```mermaid
+flowchart TD
+Research
+```
