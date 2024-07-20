@@ -1,33 +1,31 @@
 ## [Curriculum Vitae](assets/KomahanBoopathyCV.pdf)
 
+|  Research    |  [Context](#research-span)    |  [Contributions](ResearchContributions.md)    |  [Publications](SummaryOfPublications.md)    |  [Posters](RESEARCH_POSTERS.md)    | [Projects](COMPUTATIONAL_PROJECTS.md)     |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| **External Links** | **[Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ)** |   [**ORCID**](https://orcid.org/0000-0002-2543-0942)   | [**Github**](https://github.com/komahanb) |   [**YouTube**](https://www.youtube.com/@komahanboopathy)   |   [**ResearchGate**](https://www.researchgate.net/profile/Komahan-Boopathy)   |
 
-| Research | External Links |
-|---|---|
-| [Context](#research-span) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ) |
-| [Contributions](ResearchContributions.md) | [ORCID](https://orcid.org/0000-0002-2543-0942) |
-| [Publications](SummaryOfPublications.md) | [Github](https://github.com/komahanb) |
-| [Posters](RESEARCH_POSTERS.md) | [YouTube](https://www.youtube.com/@komahanboopathy) |
-| [Projects](COMPUTATIONAL_PROJECTS.md) | [ResearchGate](https://www.researchgate.net/profile/Komahan-Boopathy) |
+
 
 ![](assets/images/research-span.png)
 
 I am a research engineer at ANSYS working on the Fluent GPU solver development. My passion lies in crafting computational frameworks that analyze the static and dynamic equilibrium of aerospace designs and their environmental surroundings.
 
-A computational physics simulations technology empowers the makers of aerospace systems to analyze how their design prototypes would perform beforehand, by doing repeated high-volume calculations -- distributed for efficiency -- across a larger network of inter-connected computer-hardware platforms, powered by electrical energy.
+The computational physics simulations technology empowers the makers of aerospace systems to analyze how their design prototypes would perform beforehand, by doing repeated high-volume calculations -- distributed for efficiency -- across a larger network of inter-connected computer-hardware platforms, powered by electrical energy.
 Such computational simulations are a viable cost-effective alternative to the more-expensive and time-consuming laboratory experiments commonly performed with a limited set of design parameters.
-These simulations backed by the mathematical fabric of differential and algebraic equations, provide the ability to predict the performance of design prototypes on a much larger set of design parameters, and foster design innovations or quicker design turnarounds.
-Motivated by such exciting prospects:
+These simulations backed by the mathematical fabric of differential and algebraic equations, provide the ability to predict the performance of design prototypes on a much larger set of design parameters, and foster design innovations or quicker design turnarounds. To leverage this technology for scientific and engineering applications
 
 - the U.S. Department of Energy owns four of the top ten fastest supercomputers in the world [[1]](https://www.energy.gov/science/high-performance-computing), capable of high-volume number crunching of upto 1 quintillion operations per second
 - the NASA is pursuing its 2030 vision for computatational methods aiming to improve the state-of-the-art of accuracy, speed, scalability and design optimization capabilities, in additional to the basic computational physics [[Mavriplis 2014]](/assets/publications/nasa-cfd-2030.pdf).
 
+---
+
 In line with these motivations of practical interest, and my excitement about the sheer amount of **Freedom** offered by the domain of computational mathematics for scientific research:
 
-- The first channel of my work relates to the advancement of mathematical analysis pertinent to different physics such as the fluid-mechanics and solid-mechanics.
+- The first channel of my work relates to the advancement of mathematical analysis pertinent to physics such as the fluid-mechanics and solid-mechanics.
 - The second channel of my work entails the hierarchical structuring (i.e. architecture) and implementation of the mathematical models and algorithms in a form amenable for high-performance computing.
-- The third channel of my work concerns the application of these computational analysis capabilities in the context of aerospace design and optimization.
+- The third channel of my work concerns the application of these computational analysis capabilities in the context of aerospace design, optimization and control.
 
-The years of my graduate education and research are focussed on the domain of computational sciences in aerospace engineering; where I apply the subject areas of mathematics and computing in the ultimate context of design-optimization of aerospace systems and sub-systems. 
+My education and research are focused on the domain of computational sciences in aerospace engineering; where I apply the subject areas of mathematics and computing in the ultimate context of design-optimization of aerospace systems and sub-systems. 
 
 | Degree | Program | School | Year | Thesis | Slides
 |---|---|---|---|---|---|
@@ -40,8 +38,8 @@ The core methods forming the computational mathematics layer are fairly generic 
 ## Research Context and Span <span id="research-span"></span>
 
 I conduct research within the domain spanned by *Philosophy* <img src="/assets/images/otimes.png" width="13"> *Mathematics* <img src="/assets/images/otimes.png" width="13"> *Physics* <img src="/assets/images/otimes.png" width="13"> *Computing*.
-This is a multidisciplinary field that is synthesis of a fair bit of numerical mathematics, computer programming, and the mechanics of matter in fluid and solid forms.
-My long-term vision is creation of autonomous and scalable computational multi-physics analysis and design frameworks by synthesizing techniques from the following subject areas:
+This is a multidisciplinary field that is synthesis of computational mathematics, computer programming, and the mechanics of matter in fluid and solid forms.
+My long-term vision is the creation of autonomous and scalable computational multi-physics analysis and design frameworks by synthesizing techniques from the following subject areas:
 
 | Area | Purpose |
 |---|---|
