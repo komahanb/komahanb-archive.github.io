@@ -1,0 +1,59 @@
+# Site settings
+title: Komahan Boopathy
+description: Computational Aerosciences
+url: "https://komahanb.github.io" # Your site URL
+baseurl: "" # Base URL for your project if you have one
+
+# Author settings
+author:
+  name: Komahan Boopathy
+  email: email@email.com
+  portrait: "https://komahanb.github.io/assets/images/komahan-headshot.jpeg" # URL to your portrait image
+
+
+# Build settings
+markdown: kramdown
+theme: minima # You can change this to another theme if you like
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+# permalink: /:categories/:year/:month/:day/:title.html
+
+# Include/exclude files and directories
+# include:
+#  - _pages
+#  - _posts
+# exclude:
+#  - node_modules
+#  - vendor
+
+# Pagination settings
+# paginate: 10 # Number of posts per page
+# paginate_path: "/page:num/"
+
+# SEO settings
+seo:
+  type: "website"
+  title: "Komahan Boopathy"
+  description: "Computational Aerosciences"
+  url: "https://komahanb.github.io"
+
+# Social links
+social_links:
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?hl=en&user=YLg4R3sAAAAJ"
+    icon: "fas fa-graduation-cap"
+  - title: "ORCID"
+    url: "https://orcid.org/0000-0002-2543-0942"
+    icon: "fas fa-id-badge"
+  - title: "GitHub"
+    url: "https://github.com/komahanb"
+    icon: "fab fa-github"
+  - title: "YouTube"
+    url: "https://www.youtube.com/@komahanboopathy"
+    icon: "fab fa-youtube"
+  - title: "ResearchGate"
+    url: "https://www.researchgate.net/profile/Komahan-Boopathy"
+    icon: "fas fa-project-diagram"
